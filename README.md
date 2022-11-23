@@ -1,1 +1,1 @@
-# prevent the count component to rerender unnecessarily
+# prevent the count component from rerender unnecessarily
